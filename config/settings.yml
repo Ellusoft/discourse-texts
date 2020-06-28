@@ -1,0 +1,11 @@
+plugins:
+  awesomeness_enabled:
+    default: true
+    client: true
+  awesomeness_max_volume:
+    default: 10
+    client: true
+  max_post_length:
+    client: true
+    default: 32000
+    max: 450000
