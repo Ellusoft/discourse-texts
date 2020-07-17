@@ -1,5 +1,4 @@
 en:
   site_settings:
-    awesomeness_enabled: "Is this plugin awesome?"
-    awesomeness_max_volume: "What is the maximum volume possible?"
-    max_post_length: "Wat moet de max post length zijn?"
+    login_dialog_enabled: "Enable text on the login dialog?"
+    login_dialog_text: "What text should appear in the login dialog box?"

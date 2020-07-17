@@ -1,11 +1,7 @@
 plugins:
-  awesomeness_enabled:
+  login_dialog_enabled: 
     default: true
     client: true
-  awesomeness_max_volume:
-    default: 10
+  login_dialog_text:
+    default: "Is dit de eerste keer dat je inlogt sinds 13 juli 2020? Klik dan op Ik ben mijn wachtwoord vergeten om een nieuw wachtwoord aan te vragen. Vul daar vervolgens je <b><u>e-mailadres</u></b> in, klik op Wachtwoord herinitialiseren en volg de instructies."
     client: true
-  max_post_length:
-    client: true
-    default: 32000
-    max: 450000
